@@ -1,0 +1,65 @@
+
+*** 22:34:12 *** 
+Starting Nastran Exporter
+
+*** 22:34:12 *** 
+Writing file 
+C:\Users\Luke\OneDrive\Desktop\School\mech410\Project\MECH-410-Project\Miguel\J-Hook\j-hook_assembly_sim1-solution_1.dat
+ 
+*** 22:34:12 *** 
+Writing SIMCENTER NASTRAN 2019.2 compatible deck
+
+*** 22:34:12 *** 
+Writing Nastran System section
+
+*** 22:34:12 *** 
+Writing File Management section
+
+*** 22:34:12 *** 
+Writing Executive Control section
+
+*** 22:34:12 *** 
+Writing Case Control section
+
+*** 22:34:12 *** 
+Writing Bulk Data section
+
+*** 22:34:12 *** 
+Writing Nodes
+
+*** 22:34:12 *** 
+Writing Elements
+
+*** 22:34:12 *** 
+Writing Physical Properties
+
+*** 22:34:12 *** 
+Writing Materials
+
+*** 22:34:12 *** 
+Writing Degree-of-Freedom Sets
+
+*** 22:34:12 *** 
+Writing Loads and Constraints
+
+*** 22:34:12 *** 
+Writing Coordinate Systems
+
+*** 22:34:12 *** 
+Summary of Bulk Data cards written
+
++----------+----------+
+|   NAME   |  NUMBER  |
++----------+----------+
+| CTETRA   | 11072    |
+| FORCE    | 576      |
+| GRID     | 22840    |
+| MAT1     | 1        |
+| PARAM    | 6        |
+| PSOLID   | 1        |
+| SPC      | 462      |
++----------+----------+
+
+*** 22:34:12 *** 
+Nastran Deck Successfully Written
+
