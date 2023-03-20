@@ -1,0 +1,66 @@
+
+*** 20:19:07 *** 
+Starting Nastran Exporter
+
+*** 20:19:07 *** 
+Writing file 
+C:\Users\Luke\OneDrive\Desktop\School\mech410\Project\MECH-410-Project\Kimiya\J-Hook\j-hook-main-kimiya_sim1-solution_1.dat
+ 
+*** 20:19:07 *** 
+Writing SIMCENTER NASTRAN 2019.2 compatible deck
+
+*** 20:19:08 *** 
+Writing Nastran System section
+
+*** 20:19:08 *** 
+Writing File Management section
+
+*** 20:19:08 *** 
+Writing Executive Control section
+
+*** 20:19:08 *** 
+Writing Case Control section
+
+*** 20:19:08 *** 
+Writing Bulk Data section
+
+*** 20:19:08 *** 
+Writing Nodes
+
+*** 20:19:08 *** 
+Writing Elements
+
+*** 20:19:08 *** 
+Writing Physical Properties
+
+*** 20:19:08 *** 
+Writing Materials
+
+*** 20:19:08 *** 
+Writing Degree-of-Freedom Sets
+
+*** 20:19:08 *** 
+Writing Loads and Constraints
+
+*** 20:19:08 *** 
+Writing Coordinate Systems
+
+*** 20:19:08 *** 
+Summary of Bulk Data cards written
+
++----------+----------+
+|   NAME   |  NUMBER  |
++----------+----------+
+| CTETRA   | 11176    |
+| FORCE    | 321      |
+| GRID     | 19691    |
+| MAT1     | 1        |
+| PARAM    | 6        |
+| PSOLID   | 1        |
+| SPC      | 3823     |
+| SPCADD   | 1        |
++----------+----------+
+
+*** 20:19:08 *** 
+Nastran Deck Successfully Written
+
